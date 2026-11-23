@@ -1,0 +1,65 @@
+{
+  "last_voice": "en-US-BrianNeural",
+  "episodes": [
+    {
+      "id": "20261123-002752-test-episode-one",
+      "title": "Test Episode One",
+      "blurb": "Test episode 1. Checks that the podcast feed, audio and cover art work. Not a real article summary.",
+      "citation": {
+        "title": "Not a real article",
+        "first_author": "Cannon",
+        "journal": "Test",
+        "year": 2026,
+        "doi": ""
+      },
+      "tag": "Longleaf restoration",
+      "voice": "en-US-AndrewNeural",
+      "pubdate": "2026-11-23T00:27:52+00:00",
+      "mp3": "episodes/20261123-002752-test-episode-one.mp3",
+      "bytes": 135792,
+      "seconds": 22.632,
+      "cover": "covers/20261123-002752-test-episode-one.jpg",
+      "transcript": "transcripts/20261123-002752-test-episode-one.txt"
+    },
+    {
+      "id": "20261123-002812-test-episode-two",
+      "title": "Test Episode Two",
+      "blurb": "Test episode 2. Checks that the podcast feed, audio and cover art work. Not a real article summary.",
+      "citation": {
+        "title": "Not a real article",
+        "first_author": "Cannon",
+        "journal": "Test",
+        "year": 2026,
+        "doi": ""
+      },
+      "tag": "Disturbance ecology",
+      "voice": "en-US-AvaNeural",
+      "pubdate": "2026-11-23T00:28:12+00:00",
+      "mp3": "episodes/20261123-002812-test-episode-two.mp3",
+      "bytes": 148608,
+      "seconds": 24.768,
+      "cover": "covers/20261123-002812-test-episode-two.jpg",
+      "transcript": "transcripts/20261123-002812-test-episode-two.txt"
+    },
+    {
+      "id": "20261123-002820-test-episode-three",
+      "title": "Test Episode Three",
+      "blurb": "Test episode 3. Checks that the podcast feed, audio and cover art work. Not a real article summary.",
+      "citation": {
+        "title": "Not a real article",
+        "first_author": "Cannon",
+        "journal": "Test",
+        "year": 2026,
+        "doi": ""
+      },
+      "tag": "Remote sensing",
+      "voice": "en-US-BrianNeural",
+      "pubdate": "2026-11-23T00:28:20+00:00",
+      "mp3": "episodes/20261123-002820-test-episode-three.mp3",
+      "bytes": 137088,
+      "seconds": 22.848,
+      "cover": "covers/20261123-002820-test-episode-three.jpg",
+      "transcript": "transcripts/20261123-002820-test-episode-three.txt"
+    }
+  ]
+}
