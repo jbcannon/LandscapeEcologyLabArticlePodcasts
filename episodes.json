@@ -1,62 +1,25 @@
 {
-  "last_voice": "en-US-MichelleNeural",
+  "last_voice": "af_heart",
   "episodes": [
     {
-      "id": "20261123-005356-test-episode-one",
-      "title": "Test Episode One",
-      "blurb": "Test episode 1. Checks that the podcast feed, audio and cover art work. Not a real article summary.",
+      "id": "20261123-015244-informal-trade-behind-wiregrass-restoration",
+      "title": "Informal Trade Behind Wiregrass Restoration",
+      "blurb": "Interviews with 20 Florida landowners, land managers, and conservation staff show wiregrass restoration runs on trust-based swaps of seed, burn crews, and equipment. Seed costs about $1,700 per pound, and goodwill, more than profit, drives the sharing.",
       "citation": {
-        "title": "Not a real article",
-        "first_author": "Cannon",
-        "journal": "Test",
-        "year": 2026,
-        "doi": ""
+        "title": "The informal economy of wiregrass production for longleaf pine restoration in Florida",
+        "first_author": "Carney et al.",
+        "journal": "Trees, Forests and People",
+        "year": 2024,
+        "doi": "https://doi.org/10.1016/j.tfp.2024.100620"
       },
-      "tag": "Longleaf restoration",
-      "voice": "en-US-AvaNeural",
-      "pubdate": "2026-11-23T00:53:56+00:00",
-      "mp3": "episodes/20261123-005356-test-episode-one.mp3",
-      "bytes": 146880,
-      "seconds": 24.48,
-      "cover": "covers/20261123-005356-test-episode-one.jpg"
-    },
-    {
-      "id": "20261123-005403-test-episode-two",
-      "title": "Test Episode Two",
-      "blurb": "Test episode 2. Checks that the podcast feed, audio and cover art work. Not a real article summary.",
-      "citation": {
-        "title": "Not a real article",
-        "first_author": "Cannon",
-        "journal": "Test",
-        "year": 2026,
-        "doi": ""
-      },
-      "tag": "Disturbance ecology",
-      "voice": "en-US-ChristopherNeural",
-      "pubdate": "2026-11-23T00:54:03+00:00",
-      "mp3": "episodes/20261123-005403-test-episode-two.mp3",
-      "bytes": 158400,
-      "seconds": 26.4,
-      "cover": "covers/20261123-005403-test-episode-two.jpg"
-    },
-    {
-      "id": "20261123-005407-test-episode-three",
-      "title": "Test Episode Three",
-      "blurb": "Test episode 3. Checks that the podcast feed, audio and cover art work. Not a real article summary.",
-      "citation": {
-        "title": "Not a real article",
-        "first_author": "Cannon",
-        "journal": "Test",
-        "year": 2026,
-        "doi": ""
-      },
-      "tag": "Remote sensing",
-      "voice": "en-US-MichelleNeural",
-      "pubdate": "2026-11-23T00:54:07+00:00",
-      "mp3": "episodes/20261123-005407-test-episode-three.mp3",
-      "bytes": 154080,
-      "seconds": 25.68,
-      "cover": "covers/20261123-005407-test-episode-three.jpg"
+      "tag": "Longleaf Restoration",
+      "voice": "af_heart",
+      "pubdate": "2026-11-23T01:52:44+00:00",
+      "mp3": "episodes/20261123-015244-informal-trade-behind-wiregrass-restoration.mp3",
+      "bytes": 2767340,
+      "seconds": 461.184,
+      "cover": "covers/20261123-015244-informal-trade-behind-wiregrass-restoration.jpg",
+      "zotero_key": "6WDF6V87"
     }
   ],
   "queue": [
