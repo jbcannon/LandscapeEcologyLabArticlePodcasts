@@ -1,5 +1,5 @@
 {
-  "last_voice": "af_heart",
+  "last_voice": "am_adam",
   "episodes": [
     {
       "id": "20261123-015244-informal-trade-behind-wiregrass-restoration",
@@ -147,6 +147,27 @@
       "seconds": 403.224,
       "cover": "covers/20261123-211207-heavy-rain-and-acorn-crops.jpg",
       "zotero_key": "ISX3PUKA"
+    },
+    {
+      "id": "20261123-214026-longleaf-pine-on-delmarva",
+      "title": "Longleaf Pine on Delmarva",
+      "feed_title": "Sheridan et al. 2026 Longleaf Pine Native to the Delmarva Peninsula. Sci Rep",
+      "blurb": "Dead wood, DNA, radiocarbon dates and a remeasured herbarium specimen show longleaf pine once grew on the Delmarva Peninsula, outside the standard range map. Whether this northern stock was genetically distinct, or survives, remains unknown.",
+      "citation": {
+        "title": "DNA confirmation of morphologically identified pine remnants to verify the historic range of a keystone species in North America",
+        "first_author": "Sheridan et al.",
+        "journal": "Scientific Reports",
+        "year": 2026,
+        "doi": "https://doi.org/10.1038/s41598-026-66154-4"
+      },
+      "tag": "Longleaf Range",
+      "voice": "am_adam",
+      "pubdate": "2026-11-23T21:40:26+00:00",
+      "mp3": "episodes/20261123-214026-longleaf-pine-on-delmarva.mp3",
+      "bytes": 2533052,
+      "seconds": 422.136,
+      "cover": "covers/20261123-214026-longleaf-pine-on-delmarva.jpg",
+      "zotero_key": "DTBYVWMG"
     }
   ],
   "queue": [
@@ -169,7 +190,6 @@
     "en-GB-SoniaNeural"
   ],
   "bag": [
-    "am_adam",
     "af_bella",
     "af_nova",
     "am_puck",
