@@ -1,8 +1,8 @@
 {
-  "last_voice": "en-US-BrianNeural",
+  "last_voice": "en-US-MichelleNeural",
   "episodes": [
     {
-      "id": "20261123-002752-test-episode-one",
+      "id": "20261123-005356-test-episode-one",
       "title": "Test Episode One",
       "blurb": "Test episode 1. Checks that the podcast feed, audio and cover art work. Not a real article summary.",
       "citation": {
@@ -13,16 +13,15 @@
         "doi": ""
       },
       "tag": "Longleaf restoration",
-      "voice": "en-US-AndrewNeural",
-      "pubdate": "2026-11-23T00:27:52+00:00",
-      "mp3": "episodes/20261123-002752-test-episode-one.mp3",
-      "bytes": 135792,
-      "seconds": 22.632,
-      "cover": "covers/20261123-002752-test-episode-one.jpg",
-      "transcript": "transcripts/20261123-002752-test-episode-one.txt"
+      "voice": "en-US-AvaNeural",
+      "pubdate": "2026-11-23T00:53:56+00:00",
+      "mp3": "episodes/20261123-005356-test-episode-one.mp3",
+      "bytes": 146880,
+      "seconds": 24.48,
+      "cover": "covers/20261123-005356-test-episode-one.jpg"
     },
     {
-      "id": "20261123-002812-test-episode-two",
+      "id": "20261123-005403-test-episode-two",
       "title": "Test Episode Two",
       "blurb": "Test episode 2. Checks that the podcast feed, audio and cover art work. Not a real article summary.",
       "citation": {
@@ -33,16 +32,15 @@
         "doi": ""
       },
       "tag": "Disturbance ecology",
-      "voice": "en-US-AvaNeural",
-      "pubdate": "2026-11-23T00:28:12+00:00",
-      "mp3": "episodes/20261123-002812-test-episode-two.mp3",
-      "bytes": 148608,
-      "seconds": 24.768,
-      "cover": "covers/20261123-002812-test-episode-two.jpg",
-      "transcript": "transcripts/20261123-002812-test-episode-two.txt"
+      "voice": "en-US-ChristopherNeural",
+      "pubdate": "2026-11-23T00:54:03+00:00",
+      "mp3": "episodes/20261123-005403-test-episode-two.mp3",
+      "bytes": 158400,
+      "seconds": 26.4,
+      "cover": "covers/20261123-005403-test-episode-two.jpg"
     },
     {
-      "id": "20261123-002820-test-episode-three",
+      "id": "20261123-005407-test-episode-three",
       "title": "Test Episode Three",
       "blurb": "Test episode 3. Checks that the podcast feed, audio and cover art work. Not a real article summary.",
       "citation": {
@@ -53,13 +51,31 @@
         "doi": ""
       },
       "tag": "Remote sensing",
-      "voice": "en-US-BrianNeural",
-      "pubdate": "2026-11-23T00:28:20+00:00",
-      "mp3": "episodes/20261123-002820-test-episode-three.mp3",
-      "bytes": 137088,
-      "seconds": 22.848,
-      "cover": "covers/20261123-002820-test-episode-three.jpg",
-      "transcript": "transcripts/20261123-002820-test-episode-three.txt"
+      "voice": "en-US-MichelleNeural",
+      "pubdate": "2026-11-23T00:54:07+00:00",
+      "mp3": "episodes/20261123-005407-test-episode-three.mp3",
+      "bytes": 154080,
+      "seconds": 25.68,
+      "cover": "covers/20261123-005407-test-episode-three.jpg"
     }
+  ],
+  "queue": [
+    "en-GB-LibbyNeural",
+    "en-US-AndrewNeural"
+  ],
+  "bag_us": [
+    "en-US-AriaNeural",
+    "en-US-RogerNeural",
+    "en-US-BrianNeural",
+    "en-US-SteffanNeural",
+    "en-US-GuyNeural",
+    "en-US-JennyNeural"
+  ],
+  "bag_intl": [
+    "en-GB-RyanNeural",
+    "en-AU-WilliamMultilingualNeural",
+    "en-IE-EmilyNeural",
+    "en-AU-NatashaNeural",
+    "en-GB-SoniaNeural"
   ]
 }
