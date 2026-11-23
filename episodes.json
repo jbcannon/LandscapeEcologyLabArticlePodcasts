@@ -1,5 +1,5 @@
 {
-  "last_voice": "af_heart",
+  "last_voice": "am_echo",
   "episodes": [
     {
       "id": "20261123-015244-informal-trade-behind-wiregrass-restoration",
@@ -20,6 +20,26 @@
       "seconds": 461.184,
       "cover": "covers/20261123-015244-informal-trade-behind-wiregrass-restoration-v2.jpg",
       "zotero_key": "6WDF6V87"
+    },
+    {
+      "id": "20261123-022013-late-season-caribbean-hurricanes",
+      "title": "Late Season Caribbean Hurricanes",
+      "blurb": "Covers the October–November 2020 Atlantic hurricane finish, with five major hurricanes driven by low wind shear and warm western Caribbean water. A simple summer model using the ENSO longitude index and Atlantic warm pool would have predicted the surge.",
+      "citation": {
+        "title": "A Hyperactive End to the Atlantic Hurricane Season October–November 2020",
+        "first_author": "Klotzbach et al.",
+        "journal": "Bulletin of the American Meteorological Society",
+        "year": 2022,
+        "doi": "https://doi.org/10.1175/BAMS-D-20-0312.1"
+      },
+      "tag": "Disturbance Ecology",
+      "voice": "am_echo",
+      "pubdate": "2026-11-23T02:20:13+00:00",
+      "mp3": "episodes/20261123-022013-late-season-caribbean-hurricanes.mp3",
+      "bytes": 2194508,
+      "seconds": 365.712,
+      "cover": "covers/20261123-022013-late-season-caribbean-hurricanes.jpg",
+      "zotero_key": "5RLD99V4"
     }
   ],
   "queue": [
@@ -40,5 +60,25 @@
     "en-IE-EmilyNeural",
     "en-AU-NatashaNeural",
     "en-GB-SoniaNeural"
+  ],
+  "bag": [
+    "bf_lily",
+    "af_sky",
+    "bf_emma",
+    "af_river",
+    "af_heart",
+    "am_adam",
+    "af_bella",
+    "af_nova",
+    "am_puck",
+    "af_sarah",
+    "af_alloy",
+    "am_fenrir",
+    "bm_lewis",
+    "am_michael",
+    "bm_fable",
+    "am_liam",
+    "bm_george",
+    "af_aoede"
   ]
 }
