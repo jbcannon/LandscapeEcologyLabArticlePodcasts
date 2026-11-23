@@ -1,5 +1,5 @@
 {
-  "last_voice": "bf_emma",
+  "last_voice": "af_river",
   "episodes": [
     {
       "id": "20261123-015244-informal-trade-behind-wiregrass-restoration",
@@ -105,6 +105,27 @@
       "cover": "covers/20261123-022821-resistance-versus-resilience-after-storms.jpg",
       "zotero_key": "QXZZLFHA",
       "feed_title": "Patrick et al. 2022 Resistance Versus Resilience After Storms. Science Advances"
+    },
+    {
+      "id": "20261123-210917-stoddard-and-the-case-for-fire",
+      "title": "Stoddard and the Case for Fire",
+      "feed_title": "Way 2006 Herbert Stoddard and the Case for Fire in Longleaf. Environmental History",
+      "blurb": "A historical essay on Herbert Stoddard in the Red Hills of Georgia and Florida. Way argues he helped launch wildlife management, legitimized fire in longleaf forests, and showed working farmland can hold diversity.",
+      "citation": {
+        "title": "Burned to be Wild: Herbert Stoddard and the Roots of Ecological Conservation in the Southern Longleaf Pine Forest",
+        "first_author": "Way",
+        "journal": "Environmental History",
+        "year": 2006,
+        "doi": "https://doi.org/10.1093/envhis/11.3.500"
+      },
+      "tag": "Conservation History",
+      "voice": "af_river",
+      "pubdate": "2026-11-23T21:09:17+00:00",
+      "mp3": "episodes/20261123-210917-stoddard-and-the-case-for-fire.mp3",
+      "bytes": 2169020,
+      "seconds": 361.464,
+      "cover": "covers/20261123-210917-stoddard-and-the-case-for-fire.jpg",
+      "zotero_key": "FQF73AY3"
     }
   ],
   "queue": [
@@ -127,7 +148,6 @@
     "en-GB-SoniaNeural"
   ],
   "bag": [
-    "af_river",
     "af_heart",
     "am_adam",
     "af_bella",
