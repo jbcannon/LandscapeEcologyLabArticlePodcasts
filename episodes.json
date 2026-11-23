@@ -1,5 +1,5 @@
 {
-  "last_voice": "af_sky",
+  "last_voice": "bf_emma",
   "episodes": [
     {
       "id": "20261123-015244-informal-trade-behind-wiregrass-restoration",
@@ -80,6 +80,26 @@
       "seconds": 365.856,
       "cover": "covers/20261123-022540-wind-tracks-forest-growth.jpg",
       "zotero_key": "LIJERJTB"
+    },
+    {
+      "id": "20261123-022821-resistance-versus-resilience-after-storms",
+      "title": "Resistance Versus Resilience After Storms",
+      "blurb": "A synthesis of more than 4,000 coastal monitoring time series from 26 tropical cyclones, mostly estuaries and offshore waters. Ecosystems that resist storm change tend to recover slowly, and those that change more recover faster.",
+      "citation": {
+        "title": "A general pattern of trade-offs between ecosystem resistance and resilience to tropical cyclones",
+        "first_author": "Patrick et al.",
+        "journal": "Science Advances",
+        "year": 2022,
+        "doi": "https://doi.org/10.1126/sciadv.abl9155"
+      },
+      "tag": "Disturbance Ecology",
+      "voice": "bf_emma",
+      "pubdate": "2026-11-23T02:28:21+00:00",
+      "mp3": "episodes/20261123-022821-resistance-versus-resilience-after-storms.mp3",
+      "bytes": 2506124,
+      "seconds": 417.648,
+      "cover": "covers/20261123-022821-resistance-versus-resilience-after-storms.jpg",
+      "zotero_key": "QXZZLFHA"
     }
   ],
   "queue": [
@@ -102,7 +122,6 @@
     "en-GB-SoniaNeural"
   ],
   "bag": [
-    "bf_emma",
     "af_river",
     "af_heart",
     "am_adam",
