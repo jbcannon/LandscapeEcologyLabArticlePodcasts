@@ -1,5 +1,5 @@
 {
-  "last_voice": "af_river",
+  "last_voice": "af_heart",
   "episodes": [
     {
       "id": "20261123-015244-informal-trade-behind-wiregrass-restoration",
@@ -126,6 +126,27 @@
       "seconds": 361.464,
       "cover": "covers/20261123-210917-stoddard-and-the-case-for-fire.jpg",
       "zotero_key": "FQF73AY3"
+    },
+    {
+      "id": "20261123-211207-heavy-rain-and-acorn-crops",
+      "title": "Heavy Rain and Acorn Crops",
+      "feed_title": "Patterson et al. 2026 Heavy Summer Rain Days and Next-Year Oak Acorn Crops. Ecological Indicators",
+      "blurb": "At Bent Creek Experimental Forest, the heaviest 10 percent of early-summer rain days tracked next year's chestnut and white oak acorn crops; light rain showed no link. For white oak they explained about three quarters of variation.",
+      "citation": {
+        "title": "Infrequent, high-volume rainfall events modulate acorn production for two common oak species in Western North Carolina, USA",
+        "first_author": "Patterson et al.",
+        "journal": "Ecological Indicators",
+        "year": 2026,
+        "doi": "https://doi.org/10.1016/j.ecolind.2026.115726"
+      },
+      "tag": "Forest Ecology",
+      "voice": "af_heart",
+      "pubdate": "2026-11-23T21:12:07+00:00",
+      "mp3": "episodes/20261123-211207-heavy-rain-and-acorn-crops.mp3",
+      "bytes": 2419580,
+      "seconds": 403.224,
+      "cover": "covers/20261123-211207-heavy-rain-and-acorn-crops.jpg",
+      "zotero_key": "ISX3PUKA"
     }
   ],
   "queue": [
@@ -148,7 +169,6 @@
     "en-GB-SoniaNeural"
   ],
   "bag": [
-    "af_heart",
     "am_adam",
     "af_bella",
     "af_nova",
