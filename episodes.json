@@ -1,5 +1,5 @@
 {
-  "last_voice": "am_echo",
+  "last_voice": "bf_lily",
   "episodes": [
     {
       "id": "20261123-015244-informal-trade-behind-wiregrass-restoration",
@@ -40,6 +40,26 @@
       "seconds": 365.712,
       "cover": "covers/20261123-022013-late-season-caribbean-hurricanes.jpg",
       "zotero_key": "5RLD99V4"
+    },
+    {
+      "id": "20261123-022254-cyclone-winds-and-forest-recovery",
+      "title": "Cyclone Winds and Forest Recovery",
+      "blurb": "Twenty years of MODIS greenness data from southwest Pacific island forests show minor damage below about 50 meters per second, rising damage above that, and a sharp jump above about 75, with wide scatter.",
+      "citation": {
+        "title": "Tropical Cyclone Impact and Forest Resilience in the Southwestern Pacific",
+        "first_author": "Delaporte et al.",
+        "journal": "Remote Sensing",
+        "year": 2022,
+        "doi": "https://doi.org/10.3390/rs14051245"
+      },
+      "tag": "Disturbance Ecology",
+      "voice": "bf_lily",
+      "pubdate": "2026-11-23T02:22:54+00:00",
+      "mp3": "episodes/20261123-022254-cyclone-winds-and-forest-recovery.mp3",
+      "bytes": 2544428,
+      "seconds": 424.032,
+      "cover": "covers/20261123-022254-cyclone-winds-and-forest-recovery.jpg",
+      "zotero_key": "KXTMFT6B"
     }
   ],
   "queue": [
@@ -62,7 +82,6 @@
     "en-GB-SoniaNeural"
   ],
   "bag": [
-    "bf_lily",
     "af_sky",
     "bf_emma",
     "af_river",
